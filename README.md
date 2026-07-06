@@ -19,3 +19,7 @@ Repository ini berisi dokumentasi proses pembelajaran mata kuliah Reverse Engine
 Repository ini berisi jurnal mingguan yang disusun berdasarkan materi perkuliahan Reverse Engineering. Setiap jurnal memuat ringkasan materi, tools yang digunakan, hasil pembelajaran, dan kesimpulan dari setiap pertemuan.
 
 Repository ini dibuat sebagai bagian dari tugas portofolio mata kuliah Reverse Engineering.
+
+## Penutup
+
+Repository ini akan terus diperbarui seiring bertambahnya materi dan pengalaman belajar Reverse Engineering.
